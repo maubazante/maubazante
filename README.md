@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maubazante
-- 👀 I’m interested in Fullstack Web Developing
-- 🌱 I usually work with Angular, ReactJS, Java Spring, MySQL, NodeJS
-- 📫 Contact: maurobazante3@gmail.com
+🚀 Full Stack Developer | 💻 Angular, ReactJS, Java Spring, Node.js
+🎓 Systems Engineering Student | 🤖 AI Enthusiast
+🛠️ Dashboard & Chatbot Developer | ☁️ SaaS Platform Expert
+🌐 Fluent in English, Italian, Spanish
